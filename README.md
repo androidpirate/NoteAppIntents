@@ -304,7 +304,7 @@ That's it, now we can go back to **MainActivity** properly! Run the app and test
 
 ### What's in Next Tutorial
 
-In our next tutorial, we are going to implement a **SQLite database** to store and manage our notes locally. Stay tuned!
+In our [**next tutorial**](https://androidpirate.github.io/NoteAppSqliteQuery/ "**next tutorial**"), we are going to implement a **SQLite database** to store and manage our notes locally. Stay tuned!
 
 
 
